@@ -178,7 +178,9 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background: yellowgreen;
+  background-image: url(http://chrismccurley.net/wp-content/uploads/2016/11/031716_FanShare.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header.masthead hr {
