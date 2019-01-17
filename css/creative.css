@@ -142,6 +142,9 @@ img::-moz-selection {
   #mainNav .navbar-brand {
     color: rgba(32, 37, 41, 0.7);
   }
+  #mainNav .navbar-brand:hover {
+    color: #fff;
+  }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
     padding: 0.5rem 1rem;
   }
